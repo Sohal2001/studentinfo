@@ -10,7 +10,7 @@ goto `/studentinfo` by,
  -  `cd studentinfo`
  -  `mvn clean install -DskipTests`
  -  `mvn package`
-goto `/target` by
+now goto `/target` by
  -  `cd target`
 Now Run
 - java -jar `solution-0.jar`
