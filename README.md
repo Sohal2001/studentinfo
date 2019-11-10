@@ -4,7 +4,7 @@ This is a project required by Oracle for the interview purpose.
 
 To run project on local you need to have installed Maven version 3.3 min. and Java version 1.8.
 
-##### After clone the Repo, Please run following command under main project,
+##### After clonning the Repo, Please run following command under main project,
  -  `mvn clean install -DskipTests`
  -  `mvn package`
  
