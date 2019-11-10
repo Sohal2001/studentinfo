@@ -19,8 +19,9 @@ Now Run following command to run Application Program
 
 #
 
-##### To Run Test run following command 
-- go to main project /studentinfo
+##### To Run `Test`, run the following command 
+go to main project /studentinfo by, 
+-  `cd studentinfo`
 - run `mvn test`
 
 #
