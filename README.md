@@ -10,9 +10,11 @@ goto `/studentinfo` by,
  -  `cd studentinfo`
  -  `mvn clean install -DskipTests`
  -  `mvn package`
+\
 now goto `/target` by
  -  `cd target`
-Now Run
+\
+Now Run following command to run Application Program
 - java -jar `solution-0.jar`
 
 #
